@@ -1,6 +1,6 @@
-#Instrukcja
+# Instrukcja
 
-#Zbudować Makefile w projekcie:
+# Zbudować Makefile w projekcie:
 ./Makefile
 
 ================================
@@ -13,7 +13,7 @@ sudo service apache2 reload
 
 ================================
 
-#Pobrać cgicc-3.2.15.tar.gz
+# Pobrać cgicc-3.2.15.tar.gz
 wget ftp://ftp.gnu.org/gnu/cgicc/cgicc-3.2.15.tar.gz
 tar xzf cgicc-3.2.15.tar.gz
 cd cgicc-3.2.15.tar.gz
@@ -22,7 +22,7 @@ sudo make install
 
 ================================
 
-#Skopiować plik do /var/www
+# Skopiować plik do /var/www
 sudo cp cgi.html /var/www/html/cgi.html
 chmod o+w MwPSiS
 
@@ -33,5 +33,5 @@ sudo cp cgi /usr/lib/cgi-bin
 
 ================================
 
-#strona pod adresem
+# Strona pod adresem
 http://localhost/cgi.html
