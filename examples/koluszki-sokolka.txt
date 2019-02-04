@@ -1,0 +1,62 @@
+Collected values :
+
+Source: 87 Target: 50 Demand in mbps: 300
+
+Cost: 12694
+Execution time: 3s
+
+Specific route:
+
+Edge : 55:Iawa-Ostroda Throughput : 69 [Mbits]
+
+Edge : 56:Ostroda-Olsztyn Throughput : 69 [Mbits]
+
+Edge : 63:Olsztyn-Szczytno Throughput : 69 [Mbits]
+
+Edge : 64:Szczytno-Ek Throughput : 114 [Mbits]
+
+Edge : 68:Ek-Biaystok Throughput : 114 [Mbits]
+
+Edge : 72:Ostroeka-apy Throughput : 186 [Mbits]
+
+Edge : 78:Sierpc-Nasielsk Throughput : 34 [Mbits]
+
+Edge : 79:Nasielsk-Warszawa Throughput : 34 [Mbits]
+
+Edge : 81:Kutno-owicz Throughput : 69 [Mbits]
+
+Edge : 82:owicz-Warszawa Throughput : 69 [Mbits]
+
+Edge : 101:Krasznice-Inowrocaw Throughput : 69 [Mbits]
+
+Edge : 223:Jabonowo-Iawa Throughput : 69 [Mbits]
+
+Edge : 226:Torun-Jabonowo Throughput : 69 [Mbits]
+
+Edge : 228:Inowrocaw-Torun Throughput : 69 [Mbits]
+
+Edge : 244:Pock-Sierpc Throughput : 34 [Mbits]
+
+Edge : 245:Kutno-Pock Throughput : 34 [Mbits]
+
+Edge : 252:Biaystok-Sokoka Throughput : 300 [Mbits]
+
+Edge : 253:apy-Biaystok Throughput : 186 [Mbits]
+
+Edge : 254:Ostroeka-Szczytno Throughput : 45 [Mbits]
+
+Edge : 258:Tuszcz-Ostroeka Throughput : 231 [Mbits]
+
+Edge : 263:Warszawa-Tuszcz Throughput : 231 [Mbits]
+
+Edge : 285:odz-Krasznice Throughput : 69 [Mbits]
+
+Edge : 286:odz-Kutno Throughput : 103 [Mbits]
+
+Edge : 301:Grodzisk-Warszawa Throughput : 128 [Mbits]
+
+Edge : 302:Skierniewice-Grodzisk Throughput : 128 [Mbits]
+
+Edge : 303:Koluszki-Skierniewice Throughput : 128 [Mbits]
+
+Edge : 304:Koluszki-odz Throughput : 172 [Mbits]

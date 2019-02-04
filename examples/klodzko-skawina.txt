@@ -1,0 +1,34 @@
+Collected values :
+
+Source: 79 Target: 120 Demand in mbps: 200
+
+Cost: 10075
+Execution time: 3s
+
+Specific route:
+
+Edge : 108:Kodzko-KamieniecZabkowicki Throughput : 200 [Mbits]
+
+Edge : 109:KamieniecZabkowicki-Wrocaw Throughput : 65 [Mbits]
+
+Edge : 110:Wrocaw-Opole Throughput : 65 [Mbits]
+
+Edge : 111:Opole-KedzierzynKozle Throughput : 65 [Mbits]
+
+Edge : 170:Katowice-Olkusz Throughput : 200 [Mbits]
+
+Edge : 171:Olkusz-Trzebinia Throughput : 200 [Mbits]
+
+Edge : 179:Czechowice-Dziedzice-Bielsko-Biaa Throughput : 200 [Mbits]
+
+Edge : 183:Bielsko-Biaa-Skawina Throughput : 200 [Mbits]
+
+Edge : 295:Nysa-KedzierzynKozle Throughput : 135 [Mbits]
+
+Edge : 296:KamieniecZabkowicki-Nysa Throughput : 135 [Mbits]
+
+Edge : 351:Gliwice-Katowice Throughput : 200 [Mbits]
+
+Edge : 352:KedzierzynKozle-Gliwice Throughput : 200 [Mbits]
+
+Edge : 365:Trzebinia-Czechowice-Dziedzice Throughput : 200 [Mbits]

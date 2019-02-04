@@ -1,0 +1,39 @@
+Results
+Collected values :
+
+Source: 3 Target: 58 Demand in mbps: 100
+
+Cost: 3386
+Execution time: 6s
+
+Specific route:
+
+Edge : 8:Gdansk-Tczew Throughput : 100 [Mbits]
+
+Edge : 9:Tczew-Laskowice Throughput : 100 [Mbits]
+
+Edge : 10:Laskowice-Bydgoszcz Throughput : 69 [Mbits]
+
+Edge : 41:Laskowice-Grudziaz Throughput : 31 [Mbits]
+
+Edge : 42:Grudziaz-Jabonowo Throughput : 31 [Mbits]
+
+Edge : 46:Bydgoszcz-Inowrocaw Throughput : 69 [Mbits]
+
+Edge : 53:Torun-Wocawek Throughput : 69 [Mbits]
+
+Edge : 54:Wocawek-Kutno Throughput : 69 [Mbits]
+
+Edge : 57:Jabonowo-Brodnica Throughput : 31 [Mbits]
+
+Edge : 60:Brodnica-Sierpc Throughput : 31 [Mbits]
+
+Edge : 78:Sierpc-Nasielsk Throughput : 31 [Mbits]
+
+Edge : 79:Nasielsk-Warszawa Throughput : 31 [Mbits]
+
+Edge : 81:Kutno-owicz Throughput : 69 [Mbits]
+
+Edge : 82:owicz-Warszawa Throughput : 69 [Mbits]
+
+Edge : 228:Inowrocaw-Torun Throughput : 69 [Mbits]

@@ -1,0 +1,45 @@
+Results
+Collected values :
+
+Source: 1 Target: 116 Demand in mbps: 250
+
+Cost: 21348
+Execution time: 4s
+
+Specific route:
+
+Edge : 1:Hel-Gdynia Throughput : 250 [Mbits]
+
+Edge : 2:Gdynia-Gdansk Throughput : 134 [Mbits]
+
+Edge : 4:Gdynia-Kartuzy Throughput : 116 [Mbits]
+
+Edge : 6:Kartuzy-Koscierzyna Throughput : 116 [Mbits]
+
+Edge : 7:Koscierzyna-Bydgoszcz Throughput : 116 [Mbits]
+
+Edge : 8:Gdansk-Tczew Throughput : 134 [Mbits]
+
+Edge : 9:Tczew-Laskowice Throughput : 134 [Mbits]
+
+Edge : 10:Laskowice-Bydgoszcz Throughput : 134 [Mbits]
+
+Edge : 46:Bydgoszcz-Inowrocaw Throughput : 250 [Mbits]
+
+Edge : 165:HerbyNowe-Katowice Throughput : 250 [Mbits]
+
+Edge : 170:Katowice-Olkusz Throughput : 250 [Mbits]
+
+Edge : 171:Olkusz-Trzebinia Throughput : 250 [Mbits]
+
+Edge : 172:Trzebinia-Krakow Throughput : 250 [Mbits]
+
+Edge : 284:Inowrocaw-Krasznice Throughput : 250 [Mbits]
+
+Edge : 300:Krasznice-HerbyNowe Throughput : 250 [Mbits]
+
+Edge : 339:NowySacz-Jaso Throughput : 250 [Mbits]
+
+Edge : 340:Tarnow-NowySacz Throughput : 250 [Mbits]
+
+Edge : 343:Krakow-Tarnow Throughput : 250 [Mbits]

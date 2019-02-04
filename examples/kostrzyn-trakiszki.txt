@@ -1,0 +1,71 @@
+
+Results
+Collected values :
+
+Source: 23 Target: 49 Demand in mbps: 180
+
+Cost: 11515
+Execution time: 4s
+
+Specific route:
+
+Edge : 30:Kostrzyn-Gorzow Throughput : 180 [Mbits]
+
+Edge : 34:Zbaszynek-Poznan Throughput : 180 [Mbits]
+
+Edge : 35:Gorzow-Zbaszynek Throughput : 180 [Mbits]
+
+Edge : 49:Gniezno-Wrzesnia Throughput : 111 [Mbits]
+
+Edge : 51:Wrzesnia-Konin Throughput : 111 [Mbits]
+
+Edge : 52:Konin-Kutno Throughput : 111 [Mbits]
+
+Edge : 55:Iawa-Ostroda Throughput : 69 [Mbits]
+
+Edge : 56:Ostroda-Olsztyn Throughput : 69 [Mbits]
+
+Edge : 63:Olsztyn-Szczytno Throughput : 69 [Mbits]
+
+Edge : 64:Szczytno-Ek Throughput : 124 [Mbits]
+
+Edge : 65:Ek-Suwaki Throughput : 124 [Mbits]
+
+Edge : 66:Suwaki-Trakiszki Throughput : 180 [Mbits]
+
+Edge : 72:Ostroeka-apy Throughput : 56 [Mbits]
+
+Edge : 78:Sierpc-Nasielsk Throughput : 42 [Mbits]
+
+Edge : 79:Nasielsk-Warszawa Throughput : 42 [Mbits]
+
+Edge : 81:Kutno-owicz Throughput : 69 [Mbits]
+
+Edge : 82:owicz-Warszawa Throughput : 69 [Mbits]
+
+Edge : 223:Jabonowo-Iawa Throughput : 69 [Mbits]
+
+Edge : 226:Torun-Jabonowo Throughput : 69 [Mbits]
+
+Edge : 228:Inowrocaw-Torun Throughput : 69 [Mbits]
+
+Edge : 230:Gniezno-Inowrocaw Throughput : 69 [Mbits]
+
+Edge : 231:Poznan-Gniezno Throughput : 180 [Mbits]
+
+Edge : 244:Pock-Sierpc Throughput : 42 [Mbits]
+
+Edge : 245:Kutno-Pock Throughput : 42 [Mbits]
+
+Edge : 250:Sokoka-Suwaki Throughput : 56 [Mbits]
+
+Edge : 252:Biaystok-Sokoka Throughput : 56 [Mbits]
+
+Edge : 253:apy-Biaystok Throughput : 56 [Mbits]
+
+Edge : 254:Ostroeka-Szczytno Throughput : 55 [Mbits]
+
+Edge : 258:Tuszcz-Ostroeka Throughput : 111 [Mbits]
+
+Edge : 263:Warszawa-Tuszcz Throughput : 111 [Mbits]
+

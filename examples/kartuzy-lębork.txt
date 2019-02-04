@@ -1,0 +1,12 @@
+Collected values :
+
+Source: 5 Target: 4 Demand in mbps: 120
+
+Cost: 1920
+Execution time: 3s
+
+Specific route:
+
+Edge : 3:Gdynia-Lebork Throughput : 120 [Mbits]
+
+Edge : 187:Kartuzy-Gdynia Throughput : 120 [Mbits]
